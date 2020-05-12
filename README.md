@@ -1,1 +1,3 @@
-# Chees and Beer club of Port Orchard
+# Chess club website
+
+Just a website for our good old chess club.
