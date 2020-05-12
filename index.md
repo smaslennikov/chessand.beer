@@ -11,9 +11,9 @@ We meet Wednesdays 6pm-9pm at [Slaughter County Brewing Company](https://goo.gl/
 
 Reach us [via email](mailto:us@chessand.beer)
 
-Join us on [on Meetup](https://www.meetup.com/West-Sound-Chess-Club)
+Join us [on Meetup](https://www.meetup.com/West-Sound-Chess-Club)
 
-Follow us on our Facebook page for learning materials, random thoughts from a co-organizer and general radness
+Follow us on our [Facebook page](https://www.facebook.com/events/slaughter-county-brewing-company/west-sound-chess-club-at-slaughter-county-brewery/1482100138480457/) for learning materials, random thoughts from a co-organizer and general radness
 
 # More
 
