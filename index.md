@@ -8,11 +8,11 @@ Reach us [via email](mailto:us@chessand.beer)
 
 Join us [on Meetup](https://www.meetup.com/West-Sound-Chess-Club)
 
-Follow us on our [Facebook page](https://www.facebook.com/events/slaughter-county-brewing-company/west-sound-chess-club-at-slaughter-county-brewery/1482100138480457/) for learning materials, random thoughts from a co-organizer and general radness
+Follow our [Facebook group](https://www.facebook.com/events/slaughter-county-brewing-company/west-sound-chess-club-at-slaughter-county-brewery/1482100138480457/) for learning materials, random thoughts and general radness
 
 ## Recent meets
 
-Due to COVID-19, we're currently [playing online](https://lichess.org/). Once our venue opens, we'll be back there - reach us [via email](mailto:us@chessand.beer) for more information!
+Due to COVID-19, we're currently [playing online](https://lichess.org/). Once our venue opens, we'll be back there - subscribe on the left for updates!
 
 Date|Attendees|Notes
 -|-|-
@@ -28,9 +28,8 @@ Date|Attendees|Notes
 1/8/2020 | 4 | Welcome to the New Year!
 1/1/2020 | 2 |
 
-
 ## More
 
-WSCC is now an officially registered USCF club with an aim to bring monthly rated blitz and quick tournaments to enthusiasts who may not have the time to commit to standard play. Attendance at the club remains free to all with no membership requirement to USCF
+WSCC is an officially registered USCF club with an aim to bring monthly rated blitz and quick tournaments to enthusiasts who may not have the time to commit to standard play. Attendance at the club remains free to all with no membership requirement to USCF
 
 We are committed to promoting chess on the peninsula and are always looking for new players and locations. Please let us know if you have a place we can promote here
