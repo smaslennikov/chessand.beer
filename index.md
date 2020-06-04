@@ -16,6 +16,7 @@ Due to COVID-19, we're currently [playing online](https://lichess.org/). Once ou
 
 Date|Attendees|Notes
 -|-|-
+6/4/2020 | 8 | Outdoor games and beer to celebrate relative freedom!
 3/11/2020 | 5 | Upcoming lockdown celebrations
 3/4/2020 | 7 |
 2/26/2020 | 6 |
