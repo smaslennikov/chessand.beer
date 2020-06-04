@@ -6,13 +6,11 @@ We meet Wednesdays 6pm-9pm at [Slaughter County Brewing Company](https://goo.gl/
 
 Reach us [via email](mailto:us@chessand.beer)
 
-Join us [on Meetup](https://www.meetup.com/West-Sound-Chess-Club)
-
 Follow our [Facebook group](https://www.facebook.com/events/slaughter-county-brewing-company/west-sound-chess-club-at-slaughter-county-brewery/1482100138480457/) for learning materials, random thoughts and general radness
 
 ## Recent meets
 
-Due to COVID-19, we're currently [playing online](https://lichess.org/). Once our venue opens, we'll be back there - subscribe on the left for updates!
+Due to COVID-19, we've been [playing online](https://lichess.org/). Our venue is finally opening, join us and subscribe on the left for updates of future meetings!
 
 Date|Attendees|Notes
 -|-|-
