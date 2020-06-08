@@ -14,6 +14,7 @@ Due to COVID-19, we've been [playing online](https://lichess.org/). Our venue is
 
 Date|Attendees|Notes
 -|-|-
+6/6/2020 | 8 | Venison, duck, pork and chess at a member's abode
 6/4/2020 | 8 | Outdoor games and beer to celebrate relative freedom!
 3/11/2020 | 5 | Upcoming lockdown celebrations
 3/4/2020 | 7 |
