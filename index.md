@@ -16,6 +16,10 @@ Due to COVID-19, we've been [playing online](https://lichess.org/). Our venue is
 
 Date|Attendees|Notes
 -|-|-
+7/31/2020 | 7 |
+7/24/2020 | 6 |
+7/17/2020 | 5 |
+7/10/2020 | 5 |
 7/3/2020 | 4 | Happy fireworks!
 6/26/2020 | 5 |
 6/17/2020 | 4 |
