@@ -1,41 +1,12 @@
 # West Sound Chess Club
 
-**We've moved our meetings from Wednesdays to Fridays due to venue changes!**
-
-We meet Fridays 6pm-9pm at [Slaughter County Brewing Company](https://goo.gl/maps/MLYQGDA9BtWv36wX9) in Port Orchard, WA.
+We meet Fridays 6pm-9pm at [Slaughter County Brewing Company](https://goo.gl/maps/MLYQGDA9BtWv36wX9) in Port Orchard, WA. Join the mailing list for updates and to get notified of cancelled meets!
 
 ## Asocial options
 
 Reach us [via email](mailto:us@chessand.beer)
 
 Follow our [Facebook group](https://www.facebook.com/events/slaughter-county-brewing-company/west-sound-chess-club-at-slaughter-county-brewery/1482100138480457/) for learning materials, random thoughts and general radness
-
-## Recent meets
-
-Due to COVID-19, we've been [playing online](https://lichess.org/). Our venue is finally opening, join us and subscribe on the left for updates of future meetings!
-
-Date|Attendees|Notes
--|-|-
-7/31/2020 | 7 |
-7/24/2020 | 6 |
-7/17/2020 | 5 |
-7/10/2020 | 5 |
-7/3/2020 | 4 | Happy fireworks!
-6/26/2020 | 5 |
-6/17/2020 | 4 |
-6/6/2020 | 8 | Venison, duck, pork and chess at a member's abode
-6/4/2020 | 8 | Outdoor games and beer to celebrate relative freedom!
-3/11/2020 | 5 | Upcoming lockdown celebrations
-3/4/2020 | 7 |
-2/26/2020 | 6 |
-2/19/2020 | 5 |
-2/12/2020 | 6 |
-2/5/2020 | 6 |
-1/29/2020 | 5 |
-1/22/2020 | 6 |
-1/15/2020 | 5 |
-1/8/2020 | 4 | Welcome to the New Year!
-1/1/2020 | 2 |
 
 ## More
 
