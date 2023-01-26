@@ -2,8 +2,6 @@
 
 We meet Wednesdays 6pm-9pm at [Brickhouse 714](https://goo.gl/maps/3xmtdsSbXqGFv1hn8) in Port Orchard, WA. Join the mailing list for updates!
 
-**On November 23rd, 2023** we'll meet at [Hi Tide](https://goo.gl/maps/Qe1PkxiWxzXxu1P3A).
-
 ## Asocial options
 
 Reach us [via email](mailto:us@chessand.beer)
