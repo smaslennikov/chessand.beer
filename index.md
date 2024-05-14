@@ -1,6 +1,6 @@
 # West Sound Chess Club
 
-We meet Wednesdays 6pm-9pm at [Damn Fine Pizza](https://maps.app.goo.gl/wRfU9atbXemTyY1P7) in Port Orchard, WA. Join the mailing list for updates!
+We meet Wednesdays 6pm-9pm at [Whiskey Gulch in Port Orchard, Washington ](https://maps.app.goo.gl/utf23RtXECddmDT36). Join the mailing list for updates!
 
 ## Asocial options
 
