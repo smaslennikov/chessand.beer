@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 layout: default
-logo: logo.jpeg
-title: 'WSCC: Chess club in Bremerton/Port Orchard in Kitsap County, WA'
-tagline: 'Chess club in Bremerton/Port Orchard, WA'
+logo: logo.png
+title: 'WSCC: Chess club in Port Orchard in Kitsap County, WA'
+tagline: 'Chess club in Port Orchard, WA'
 url: https://chessand.beer
 description: 'Chess club based out of Port Orchard and Bremerton, WA in Kitsap County. All skill levels welcome!'
